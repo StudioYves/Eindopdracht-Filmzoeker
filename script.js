@@ -21,22 +21,9 @@ const filterMovies = (wordInTitle) => {
     const filterOnTitle = movies.filter(film => {
         film.Title;
     });
-    if (filterOnTitle.includes(wordInTitle)) {
-        return console.log(film);
+    filterOnTitle.includes(wordInTitle);
     };
-}
-
-
-
-
-
-
-
-
-
-
-
-
+    
 const handleOnChangeEvent = (event) => {
     switch (event.target.value) {
         case "avenger":
