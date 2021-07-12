@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+p {
+  color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  margin-top: 75px;
+}
+
+label {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0 60px 0 5px;
+}
+
+#movie-list {
+  color: white;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  margin: 30px 0px 75px 50px;
+  padding-inline-start: 0; 
+}
+
+li {
+  margin: 10px;
+}
+
+img {
+  width: 250px;
+  height: auto;
+}
