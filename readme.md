@@ -2,7 +2,7 @@
 
 ![](filmzoeker.png)
 
-##  Doel van het projects
+##  Doel van het project
 In dit project heb ik een filmzoeker gemaakt die alle Marvel films vanuit een externe database in de DOM weergeeft.
 
 ## Requirements
